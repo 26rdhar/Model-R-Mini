@@ -1,7 +1,7 @@
 // Welcome to my Cybertruck Model R Mini Code (310 lines)
 
 /*  This is the key for the hexademical values of the different remote control keys
-//Ch- = FFA25D
+Ch- = FFA25D
 CH = FF629D
 CH+ = FFE21D
 backwards = FF22DD
